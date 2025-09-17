@@ -1,0 +1,11 @@
+name: fibonacci_dart
+description: >
+  Proyecto de ejemplo escrito en Dart que devuelve una lista de números de la
+  sucesión de Fibonacci. El proyecto expone una función que genera la lista
+  y un script de consola que la imprime.  
+version: 1.0.0
+
+# El SDK de Dart mínimo requerido.  Si su entorno no tiene Dart instalado,
+# este valor puede modificarse según sea necesario.
+environment:
+  sdk: '>=2.12.0 <3.0.0'
